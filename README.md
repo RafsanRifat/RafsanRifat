@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on BoomDevs as an Intern Web Developer
-- 🌱 I’m currently learning Django
+- 🌱 I’m currently learning Python & Django
 - 👯 I’m looking to collaborate on any Django project 
 
 <!--
