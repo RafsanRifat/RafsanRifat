@@ -43,6 +43,8 @@ Here are some ideas to get you started:
   [![Vue Badge](https://img.shields.io/badge/-Vue-42b883?style=for-the-badge&labelColor=black&logo=vue.js&logoColor=42b883)](#)
   [![RestApi Badge](https://img.shields.io/badge/-RestApi-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
   [![DjangoRESTFramework Badge](https://img.shields.io/badge/-DjangoRESTFramework-1877F2?style=for-the-badge&labelColor=black&logo=visual%20studio&logoColor=1877F2)](#)
+   [![STRIPE Badge](https://img.shields.io/badge/-Stripe-17A36D?style=for-the-badge&labelColor=black&logo=stripe&logoColor=17A36D)](#) 
+   
   <!--[![DRF Badge](https://img.shields.io/badge/-DRF-1877F2?style=for-the-badge&labelColor=black&logo=visual%20studio&logoColor=1877F2)](#)-->  
   <!--[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)-->  
   <!--[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)-->   
@@ -55,7 +57,6 @@ Here are some ideas to get you started:
   [![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](#) 
   [![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-7111f5?style=for-the-badge&logo=bootstrap&logoColor=7111f5&labelColor=000000)](#) 
   [![Git Badge](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=F05032)](#)
-  [![STRIPE Badge](https://img.shields.io/badge/-Stripe-17A36D?style=for-the-badge&labelColor=black&logo=stripe&logoColor=17A36D)](#) 
   
   
 </div>
