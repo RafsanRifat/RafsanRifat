@@ -53,11 +53,13 @@ Here are some ideas to get you started:
   <!--[![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](#)-->
   <!--[![VsCode Badge](https://img.shields.io/badge/-VSCode-1877F2?style=for-the-badge&labelColor=black&logo=visual%20studio&logoColor=1877F2)](#)-->
   <!--[![Nuxt.js Badge](https://img.shields.io/badge/-Nuxt.js-42b883?style=for-the-badge&labelColor=black&logo=nuxt.js&logoColor=42b883)](#)-->
+  
+  [![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&labelColor=black&logo=Docker&logoColor=2496ED)](#)
+  [![Git Badge](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=F05032)](#)
+  
   [![CSS Badge](https://img.shields.io/badge/Css-CC6699?style=for-the-badge&logo=sass&logoColor=white)](#)
   [![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](#) 
-  [![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-7111f5?style=for-the-badge&logo=bootstrap&logoColor=7111f5&labelColor=000000)](#) 
-  [![Git Badge](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=F05032)](#)
-  [![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&labelColor=black&logo=Docker&logoColor=2496ED)](#)
+  [![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-7111f5?style=for-the-badge&logo=bootstrap&logoColor=7111f5&labelColor=000000)](#)
   
   
 </div>
