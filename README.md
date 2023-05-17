@@ -2,10 +2,11 @@
 
 
 
+<!-- 
 - 🔭 I’m currently working on BoomDevs as an Intern Web Developer.
 - 🌱 I’m currently learning Python, Django & Vue.js.
 - 👯 I’m looking to collaborate on any Python & Django project.
-
+-->
 <!--
 **RafsanRifat/RafsanRifat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
